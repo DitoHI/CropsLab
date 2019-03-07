@@ -9,7 +9,7 @@ Data yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerinta
 ## Pihak Ketiga
 Perangkat lunak yang dibuat murni merupakan pengembangan dari internal pengembang. Adapun dalam pengembangan juga dibantu oleh beberapa library dan tools yang sangat membantu dan meningkatkan performa aplikasi. <br />
 Disclaimer! Sebagian besar assets yang digunakan di dalamnya termasuk ikon-ikon yang digunakan merupakan proyek open source yang berisi hasil desain dari para desainer internasional. Karena pengembang merupakan user yang memanfaatkan lisensi gratis, maka segala ikon yang digunakan akan dicantumkan berikut linknya.<br />
-####Libraries
+<h3 style="text-decoration: underline;">Libraries</h3><ul>
 	<li><h4>Glide</h4>
        	An image loading and caching library for Android focused on 				smooth scrolling <a href="https://bumptech.github.io/glide/">            	bumptech.github.io/glide/</a>
 	</li>
