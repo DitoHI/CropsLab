@@ -2,6 +2,8 @@
 
 ## Contents
 * [Tentang Kami](#tentang-kami)
+* [Pihak Ketiga](#pihak-ketiga)
+* [Kebijakan Data](#kebijakan-data)
 
 ## Tentang Kami
 Data yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerintahan milik negara Indonesia. Badan-badan tersebut antara lain Badan Meteorologi Klimatologi dan Geofisika, Dinas Pertanian Jawa Timur, serta Dinas Pertanian Surabaya, Mojokerto, dan Pandaan
@@ -50,7 +52,6 @@ Disclaimer! Sebagian besar assets yang digunakan di dalamnya termasuk ikon-ikon 
        	Android Graph Library for creating zoomable and scrollable line and bar graphs <a href="https://github.com/jjoe64/GraphView">            		www.github.com/jjoe64/GraphView</a>
 	</li>
 </ul>
-<br />
 <h3 style="text-decoration: underline;">Icons</h3><ul>
 	<li><h4>Leaf in Logo's Icon</h4>
        	<a href="https://www.freepik.com/free-vector/green-leaves_796893.htm">https://www.freepik.com/free-vector/green-leaves_796893.htm</a>
@@ -151,3 +152,6 @@ Disclaimer! Sebagian besar assets yang digunakan di dalamnya termasuk ikon-ikon 
        	<a href="https://www.vecteezy.com/vector-art/225518-potted-plant-set-vector">https://www.vecteezy.com/vector-art/225518-potted-plant-set-vector</a>
     </li>
 </ul>
+
+## Kebijakan Data
+<div><b>Data</b> yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerintahan milik negara Indonesia. Badan-badan tersebut antara lain Badan Meteorologi Klimatologi dan Geofisika, Dinas Pertanian Jawa Timur, serta Dinas Pertanian Surabaya, Mojokerto, dan Pandaan</div>
