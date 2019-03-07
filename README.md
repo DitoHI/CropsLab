@@ -154,4 +154,4 @@ Disclaimer! Sebagian besar assets yang digunakan di dalamnya termasuk ikon-ikon 
 </ul>
 
 ## Kebijakan Data
-<div><b>Data</b> yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerintahan milik negara Indonesia. Badan-badan tersebut antara lain Badan Meteorologi Klimatologi dan Geofisika, Dinas Pertanian Jawa Timur, serta Dinas Pertanian Surabaya, Mojokerto, dan Pandaan</div>
+<b>Data</b> yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerintahan milik negara Indonesia. Badan-badan tersebut antara lain Badan Meteorologi Klimatologi dan Geofisika, Dinas Pertanian Jawa Timur, serta Dinas Pertanian Surabaya, Mojokerto, dan Pandaan. Serta gambar training yang terdiri dari beberapa tanaman pangan beserta klasifikasi penyakitnya didapat dari [PlantVillage](https://github.com/salathegroup/plantvillage_deeplearning_paper_dataset)
