@@ -61,11 +61,11 @@ Perangkat lunak yang dibuat murni merupakan pengembangan dari internal pengemban
     </li>
     <li>
     	<h4>Green Loader</h4>
-       	<a href=" https://loading.io/spinner/custom/230002"> https://loading.io/spinner/custom/230002</a>
+       	<a href="https://loading.io/spinner/custom/230002"> https://loading.io/spinner/custom/230002</a>
     </li>
     <li>
     	<h4>Farmer in Error Log</h4>
-       	<a href=" https://loading.io/spinner/custom/230002"> https://www.freepik.com/free-vector/autumn-background-with-farmers_2603795.html</a>
+       	<a href="https://loading.io/spinner/custom/230002"> https://www.freepik.com/free-vector/autumn-background-with-farmers_2603795.html</a>
     </li>
     <li>
     	<h4>Farmer in Not Found Icon</h4>
