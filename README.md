@@ -6,7 +6,16 @@
 * [Kebijakan Data](#kebijakan-data)
 
 ## Tentang Kami
-Data yang digunakan dalam proses pembelajaran mesin berasal dari badan pemerintahan milik negara Indonesia. Badan-badan tersebut antara lain Badan Meteorologi Klimatologi dan Geofisika, Dinas Pertanian Jawa Timur, serta Dinas Pertanian Surabaya, Mojokerto, dan Pandaan
+<div><b>CropsLab</b> merupakan sebuah hasil penelitian dalam aplikasi android yang berbasis non-profit. Aplikasi ini diciptakan murni atas keresahan untuk pengembangan agroteknologi di Indonesia khususnya di bidang perangkat lunak.</div></br>
+<div><b>CropsLab</b> diciptakan dengan dasar ide bahwa algoritma <i>machine learning</i> khususnya prediksi dan klasifikasi dapat meningkatkan produktivitas petani. Solusi yang ditawarkan oleh CropsLab adalah prediksi persentase serangan yang terjadi pada kota/kabupaten tertentu.</div></br>
+<div>Selain itu CropsLab juga menerapkan algoritma Computer Vision untuk melakukan klasifikasi penyakit pada tanaman berdasarkan gambar. <b>Data</b> yang digunakan di dalam proses pembelajaran mesin oleh aplikasi kami didapatkan dari Badan Nasional terakreditasi dari Indonesia.</div>
+
+<br />
+<div style="text-align: center;">
+<h3>Software Engineer</h3>
+<i>Dito Hafizh Indriarto</i></br>
+<i>ditohafizh@gmail.com</i></br>
+</div>
 
 ## Pihak Ketiga
 Perangkat lunak yang dibuat murni merupakan pengembangan dari internal pengembang. Adapun dalam pengembangan juga dibantu oleh beberapa library dan tools yang sangat membantu dan meningkatkan performa aplikasi. <br />
