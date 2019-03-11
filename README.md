@@ -10,12 +10,12 @@
 <div><b>CropsLab</b> diciptakan dengan dasar ide bahwa algoritma <i>machine learning</i> khususnya prediksi dan klasifikasi dapat meningkatkan produktivitas petani. Solusi yang ditawarkan oleh CropsLab adalah prediksi persentase serangan yang terjadi pada kota/kabupaten tertentu.</div></br>
 <div>Selain itu CropsLab juga menerapkan algoritma Computer Vision untuk melakukan klasifikasi penyakit pada tanaman berdasarkan gambar. <b>Data</b> yang digunakan di dalam proses pembelajaran mesin oleh aplikasi kami didapatkan dari Badan Nasional terakreditasi dari Indonesia.</div>
 
-<br />
 <div style="text-align: center;">
 <h3>Software Engineer</h3>
 <i>Dito Hafizh Indriarto</i></br>
 <i>ditohafizh@gmail.com</i></br>
 </div>
+<br />
 
 ## Pihak Ketiga
 Perangkat lunak yang dibuat murni merupakan pengembangan dari internal pengembang. Adapun dalam pengembangan juga dibantu oleh beberapa library dan tools yang sangat membantu dan meningkatkan performa aplikasi. <br />
